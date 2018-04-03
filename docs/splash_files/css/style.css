@@ -6,7 +6,7 @@ Author: Danny C
 Author URI: http://allisinc.com
 Version: 1
 */
-@import url("http://hello.myfonts.net/count/3182cd");  
+@import url("https://hello.myfonts.net/count/3182cd");  
 @font-face {font-family: 'BodoniClassicRoman';src: url('webfonts/3182CD_0_0.eot');src: url('webfonts/3182CD_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3182CD_0_0.woff2') format('woff2'),url('webfonts/3182CD_0_0.woff') format('woff'),url('webfonts/3182CD_0_0.ttf') format('truetype');}  
 @font-face {font-family: 'SackersGothicStd-Medium';src: url('webfonts/3182CD_1_0.eot');src: url('webfonts/3182CD_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3182CD_1_0.woff2') format('woff2'),url('webfonts/3182CD_1_0.woff') format('woff'),url('webfonts/3182CD_1_0.ttf') format('truetype');}   
 @font-face {font-family: 'SackersGothicStd-Light';src: url('webfonts/3182CD_2_0.eot');src: url('webfonts/3182CD_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3182CD_2_0.woff2') format('woff2'),url('webfonts/3182CD_2_0.woff') format('woff'),url('webfonts/3182CD_2_0.ttf') format('truetype');}
@@ -899,7 +899,7 @@ form.hs-form fieldset.form-columns-2 .hs-form-field .hs-input,
     font-family: "Knockout 47 A", "Knockout 47 B";
 	font-style: normal;
 	font-weight: 400;
-	padding:14px 66px;
+	padding:14px 50px;
 /* 	min-width:53%; */
 	max-width:400px;
 	margin-top:10px;

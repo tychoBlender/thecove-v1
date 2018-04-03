@@ -22,8 +22,8 @@ $(window).load(function(){
 
 $(document).ready(function(){
 	
-	preloadImage(window.location.href+'\/splash_files\/img\/TheCoveCa-Sun_Kissed.png');
-	preloadImage(window.location.href+'\/splash_files\/img\/TheCoveCa-Sun_Kissed-Desktop.png');
+	preloadImage(window.location.href+'splash_files\/img\/TheCoveCa-Sun_Kissed.png');
+	preloadImage(window.location.href+'splash_files\/img\/TheCoveCa-Sun_Kissed-Desktop.png');
 
 
 	if(isMobile && w < 1024){
